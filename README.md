@@ -49,6 +49,10 @@ application:
         res.redirect('/');
       });
 
+## Tests
+  $ npm install
+  $ npm test
+
 ## Credits
 
 - [Ian Mark Muninio](http://github.com/ianmuninio)
